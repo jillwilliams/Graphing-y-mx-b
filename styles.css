@@ -1,0 +1,41 @@
+body {
+    font-family: "Mansalva", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: yellowgreen;
+    background-image: linear-gradient(black, grey);
+    margin: 15px 35px 45px 35px;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10, #img11, #img11, #img12, #img13, #img14 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px yellowgreen solid;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+
+}
